@@ -1,0 +1,1 @@
+# mahjongsoul-rank-simulator
